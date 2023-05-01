@@ -5,24 +5,24 @@ Ce projet a été réalisé en binôme par KHAOUS Noureddine et EL MESSAOUDI Ach
 ## Introduction :
 Ce projet porte sur la modélisation et la commande d'un système de lévitation magnétique en utilisant l'approche hamiltonienne à ports et un réseau de neurones convolutionnels. Le système de lévitation magnétique a été implémenté sur une maquette Quanser et contrôlé à l'aide de Matlab.
 
-##Contenu :
+## Contenu :
 Le code Matlab est divisé en plusieurs étapes :
 
-Étape de calibration :
+### Étape de calibration :
 q_cal_maglev.mdl
 q_cal_maglev.mdl.autosave
 
-Quick start pour les essais :
+### Quick start pour les essais :
 maglev_quick_start.mdl
 maglev_quick_start.mdl.r2011a
 
-Résultats de simulation et expérimentaux :
+### Résultats de simulation et expérimentaux :
 q_maglev_pi.mdl
 q_maglev_piv.mdl
 s_maglev_pi.mdl
 s_maglev_piv.mdl
 
-Utilisation :
+## Utilisation :
 Pour utiliser ce code, vous pouvez suivre les étapes suivantes :
 
 Ouvrez les fichiers q_cal_maglev.mdl et q_cal_maglev.mdl.autosave pour effectuer la calibration de la maquette.
@@ -31,7 +31,7 @@ Utilisez les fichiers maglev_quick_start.mdl et maglev_quick_start.mdl.r2011a po
 
 Explorez les fichiers q_maglev_pi.mdl, q_maglev_piv.mdl, s_maglev_pi.mdl et s_maglev_piv.mdl pour voir les résultats de simulation et expérimentaux.
 
-Crédits
+## Crédits
 KHAOUS Noureddine
 EL MESSAOUDI Achraf
 Dr. HAMROUN Boussad, enseignant-chercheur au sein du LAGEPP
