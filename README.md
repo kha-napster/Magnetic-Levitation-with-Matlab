@@ -2,7 +2,7 @@
 
 Ce projet a été réalisé en binôme par KHAOUS Noureddine et EL MESSAOUDI Achraf dans le cadre de la licence EEA à l'Université Claude Bernard Lyon 1, dans le laboratoire de recherche encadré par le Dr. HAMROUN Boussad, enseignant-chercheur au sein du LAGEPP.
 
-##Introduction :
+## Introduction :
 Ce projet porte sur la modélisation et la commande d'un système de lévitation magnétique en utilisant l'approche hamiltonienne à ports et un réseau de neurones convolutionnels. Le système de lévitation magnétique a été implémenté sur une maquette Quanser et contrôlé à l'aide de Matlab.
 
 ##Contenu :
